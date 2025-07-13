@@ -1,0 +1,34 @@
+Name,Mol.Wt,Melting Pt,Toxicity Level
+Amitriptyline,277,197,Medium
+Aspirin,180,135,Medium
+"Bromadol	",408,208,High
+Buprenorphine,467,213,High
+Capsaicin,305,62,Low
+Celecoxib,381,157,Medium
+Codeine,299,154,Medium
+Diclofenac,296,156,Medium
+Etoricoxib,358,133,Medium
+Fentanyl,336,87,Very High
+Gabapentin,171,202,Medium
+Heroin,369.4,172,High
+Hydrocodone,299,196,High
+Hydromorphone,285.34,267,High
+Ibuprofen,206,75,Medium
+Indomethacin,357,158,Medium
+Ketoprofen ,254,94,Medium
+Ketorolac,255,160,Medium
+Lidocaine,234,68,Medium
+Meloxicam,351,254,Medium
+Methadone,309,78,High
+Morphine,285,255?,High
+Naproxen,230,152,Medium
+Naproxen,230,152,Medium
+Oxaprozin,293,160,Medium
+Oxycodone,315,219,High
+Oxymorphone,301,212,High
+Paracetamol,151,169,Medium
+Phenadoxone,363,75,High
+Phenazone,196,156,Medium
+Pregabalin,159,176,Medium
+Tramadol,263,178,Medium
+Zucapsaicin,293,71,Low

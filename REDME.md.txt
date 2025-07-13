@@ -1,0 +1,22 @@
+# Painkiller Toxicity Analysis
+
+This project explores the relationship between painkillers' molecular weight and melting point using linear regression.
+
+## Dataset
+- painkillers_dataset_clear.csv with:
+  - Name
+  - Mol.Wt
+  - Melting Pt
+  - Toxicity Level
+
+## Analysis
+- Cleaning invalid entries
+- Scatterplots
+- Regression line
+- R² evaluation
+
+## Key Findings
+- Positive correlation between melting point and molecular weight.
+
+## License
+MIT
